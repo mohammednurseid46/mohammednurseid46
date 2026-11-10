@@ -60,7 +60,6 @@
 
 | 💻 Personal Projects | Self-driven  | Desktop apps (JavaFX), mobile apps (Flutter), Python scripts |
 
-> ✏️ Replace the `20XX` placeholders and rows with your real experience.
 
 ---
 
