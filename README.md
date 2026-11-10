@@ -53,9 +53,11 @@
 ## 💼 Experience
 
 | Role | Where | Highlights |
+
 |------|-------|--------|------------|
 
 | 🎓 IT Student | Bahir Dar University | Software engineering, databases, networking fundamentals |
+
 | 💻 Personal Projects | Self-driven  | Desktop apps (JavaFX), mobile apps (Flutter), Python scripts |
 
 > ✏️ Replace the `20XX` placeholders and rows with your real experience.
@@ -90,21 +92,6 @@
 - [ ] 🏆 Certifications (add the ones you're aiming for)
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mohammednurseid46&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammednurseid46&theme=tokyonight&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammednurseid46&theme=tokyonight&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohammednurseid46&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
 
 ---
 
