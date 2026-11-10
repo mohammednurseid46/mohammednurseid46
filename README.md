@@ -52,11 +52,10 @@
 
 ## 💼 Experience
 
-| Role | Where | Period | Highlights |
+| Role | Where | Highlights |
 |------|-------|--------|------------|
-| 🎓 IT Student | Bahir Dar University | 20XX – Present | Software engineering, databases, networking fundamentals |
-| 💻 Freelance / Personal Projects | Self-driven | 20XX – Present | Desktop apps (JavaFX), mobile apps (Flutter), Python scripts |
-| 🤝 *Add internship / club / volunteer role* | *Organization* | *Year* | *What you built or achieved* |
+| 🎓 IT Student | Bahir Dar University | Software engineering, databases, networking fundamentals |
+| 💻 Personal Projects | Self-driven  | Desktop apps (JavaFX), mobile apps (Flutter), Python scripts |
 
 > ✏️ Replace the `20XX` placeholders and rows with your real experience.
 
