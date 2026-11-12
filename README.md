@@ -22,7 +22,7 @@
 - 🌱 Currently learning **Flutter**, **JavaFX** and **Agentic AI**
 - 🚀 Building full-stack web apps, mobile apps and desktop apps
 - 💼 Open to **freelancing** and new opportunities
-- 🌐 Portfolio: [mohammednurseid46.github.io/portfolio](https://mohammednurseid46.github.io/portfolio/)
+- 🌐 Portfolio: [mohammednurseid46.github.io/portfolio-react](https://mohammednurseid46.github.io/portfolio-react/)
 
 ---
 
