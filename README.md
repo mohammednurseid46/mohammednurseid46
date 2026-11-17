@@ -66,7 +66,7 @@
 | 🚚 [**DRM Transport System**](https://drm-transport-system.vercel.app/) | Full-stack logistics platform with spatial distance calculations, driver tracking and route management | Next.js · Node.js · PostgreSQL · PostGIS |
 | 📱 [**FlutterQuickhelp**](https://github.com/mohammednurseid46/FlutterQuickhelp) | Quick help mobile app with a clean, fast UI | Flutter · Dart |
 | 🖥️ [**JavaUI**](https://github.com/mohammednurseid46/JavaUI) | Desktop application design with modern UI components | Java · JavaFX |
-| 🌐 [**Portfolio**](https://mohammednurseid46.github.io/portfolio/) | My personal site with a command palette, themes and interactive backgrounds | React · Vite · Tailwind CSS |
+| 🌐 [**Portfolio**](https://mohammednurseid46.github.io/portfolio-react/) | My personal site with a command palette, themes and interactive backgrounds | React · Vite · Tailwind CSS |
 
 ---
 
