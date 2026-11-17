@@ -85,20 +85,7 @@
 - [ ] 📱 A larger Flutter app
 - [ ] 📝 Blog on my learning journey
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohammednurseid46&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammednurseid46&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammednurseid46&theme=tokyonight&hide_border=true" alt="Streak stats" />
-
-</div>
-
----
 
 <div align="center">
 
